@@ -1,5 +1,5 @@
 <p align="center"></p>
-<h1 align="center">F-Tool - Powerful DDoS Script With 9 Methods Phiên Bản Đã Độ By VUMINHNGOC.DEV</h1>
+<h1 align="center">F-Tool - Phiên Bản Mod Hiệu Năng By VUMINHNGOC.DEV  <img height="20" src="https://ngocminh.it/all/svg/tich-xanh.svg" width="20"></h1>
 <em><h5 align="center">Programming Language - Python 3</h5></em>
 
 <p align="center">Không tấn công website chính phủ</p>
