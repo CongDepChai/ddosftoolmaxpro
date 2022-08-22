@@ -21,14 +21,14 @@
 * HTTP2: TLS HTTP/2 GET flood
 * CRINGE: Powerful Method Target Maybe die from Cringe
 
-# Installation
+# Cách Cài Đặt
 
-* Please use spoofed server for the best experience.
+* Vui lòng sử dụng máy chủ ảo để có trải nghiệm tốt nhất.
 
 * ```git clone https://github.com/FDc0d3/F-Tool.git```
 * ```cd F-Tool; sh install.sh```
 
-* Install CentOS
+* Cài đặt CentOS
 
 * ```cd F-Tool; sh installCentOS.sh```
 
