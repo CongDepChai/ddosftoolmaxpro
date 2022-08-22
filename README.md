@@ -1,10 +1,10 @@
-<p align="center"><img src="https://raw.githubusercontent.com/FDc0d3/F-Tool/main/screenshot/IMG_20220803_215921.jpg" width="400px" height="200px" alt="picture"></p>
-<h1 align="center">F-Tool - Powerful DDoS Script With 9 Methods</h1>
+<p align="center"></p>
+<h1 align="center">F-Tool - Powerful DDoS Script With 9 Methods Phiên Bản Đã Độ By VUMINHNGOC.DEV</h1>
 <em><h5 align="center">Programming Language - Python 3</h5></em>
 
-<p align="center">Please Don't Attack government websites.</p>
+<p align="center">Không tấn công website chính phủ</p>
 
-# Features And Methods
+# Chức Năng
 
 * Layer4
 
@@ -32,9 +32,8 @@
 
 * ```cd F-Tool; sh installCentOS.sh```
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FDc0d3/F-Toolhit-counter&count_bg=%230BD4FF&title_bg=%23525050&icon=github.svg&icon_color=%23000000&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
 
-# Old Proofs
+# Minh Họa
 
 <p align="center"><img src="https://raw.githubusercontent.com/FDc0d3/F-Tool/main/screenshot/IMG_20220803_220812.jpg" width="500px" height="400px" alt="picture"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/FDc0d3/F-Tool/main/screenshot/Screenshot_2022_0803_141022.png" width="400px" height="400px" alt="picture"></p>
@@ -42,10 +41,8 @@
 <p align="center"><img src="https://raw.githubusercontent.com/FDc0d3/F-Tool/main/screenshot/Screenshot_2022_0803_225814.png" width="500px" height="400px" alt="picture"></p>
 
 # contact dev
-* Telegram: @FDc0d3
+* Website : vuminhngoc.dev
 
-# Donation
-* New[BTC]Wallet: ```32FGCnt4uwkkByWuH8V4qyCSfynm1iVsmB```
 
 
 
